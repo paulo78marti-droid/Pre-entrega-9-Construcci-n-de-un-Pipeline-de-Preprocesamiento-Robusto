@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and virtual environments
+.ipynb_checkpoints/
+venv/
+env/
+.env
+
+# Consigna de la entrega (documento interno del curso)
+Pre-entrega - Construcción de un Pipeline de Preprocesamiento Robusto.md
+
+# Model binary outputs (optional to exclude or track)
+*.joblib.bak
+.DS_Store
+Thumbs.db
