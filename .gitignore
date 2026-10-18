@@ -12,6 +12,9 @@ env/
 # Consigna de la entrega (documento interno del curso)
 Pre-entrega - Construcción de un Pipeline de Preprocesamiento Robusto.md
 
+# Archivos de notebook de trabajo preliminar
+notebook.ipynb
+
 # Model binary outputs (optional to exclude or track)
 *.joblib.bak
 .DS_Store
